@@ -1,0 +1,16 @@
+{
+  "username": "hadijahangiri",
+  "display_name": "hadi",
+  "role": "Software Developer",
+  "career_start_year": 2016,
+  "host": "Not set",
+  "base": "Not set",
+  "focus": "Backend systems",
+  "stack": ".NET / C# / JavaScript",
+  "languages": "C# / JavaScript / T-SQL",
+  "contact": "hadijahangiri.com",
+  "portrait": {
+    "dark": "assets/portrait-dark.txt",
+    "light": "assets/portrait-light.txt"
+  }
+}
